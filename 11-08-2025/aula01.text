@@ -1,0 +1,87 @@
+comandos passo a passo: 
+    dotnet new sln -o solucao1.sln
+    dotnet new (mostra uma lista de exemplos com os elemento mais utilizados)
+    dotnet new console -n projeto01 (irá dar um erro de exito)
+
+ANOTAÇÕES DO KAIQUE
+    Criar Solução e Projeto no VS CODE
+    dotnet new sln –n <nome>
+    dotnet new sln –o <nome>
+    dotnet new <template> -n <nome>
+    dotnet sln <nome_solucao>.sln add <pasta>/<nome>.csproj
+    dotnet build
+    dotnet run (dentro da pasta do projeto)
+
+    -n (name): responsável pela nomeação, é colocado dentro da pasta atual 
+    -o (output): verifica se há uma pasta nomeada, e se não houver, é criada
+
+    template: tipo do projeto que será criado
+    add: adiciona o projeto a uma solução
+
+    Exemplos usados:
+    dotnet new sln –o solucao1
+    dotnet new console -n projeto1
+    dotnet sln dotnet run
+    solucao1.sln add projeto1/projeto1.csproj
+    dotnet build
+
+
+no Visual Studio
+    Projeto2
+    Solucao2
+    usar a mesma pasta desse arquivo
+
+    no arquivo:
+        int idade = 20;
+        string nome = "Vara";
+        float peso = 52.5f;
+        decimal peso2 = 45.6m;
+        double peso3 = 75.7;
+        
+        // Concatenando
+        atalho: wl -> dentro do parenteses ("NOme: " + nome + "\nIdade: " + idade) ;
+
+        // Interpolando
+        atalho: wl -> dentro do parenteses ($"Nome: {nome}\nIdade:{idade}\nPeso:{peso}");
+        
+
+        // Conversoes 
+
+        // Implicitas - feita naturalmente de um tipo para o outro
+        int x = 123;
+        double y = x;
+
+        // Explicitas - Cast 
+        int z = 2;
+        int w =3;
+
+        //Funçoes
+        string numero = x.ToString();
+        Console.ReadLine("Digite sua idade: ");
+        int idade2 = int.Parse(Console.ReadLine());
+        Console.ReadLine("Digite seu peso: ");
+        int peso5 = Convert.ToDouble(Console.ReadLine(""));
+        Console.WriteLine($"Idade: {idade2}");
+        Console.WriteLine($"Peso: {peso5}");
+        
+        //nullable
+        int? numero2 = null;
+
+        int numero1 = numero2??0;
+
+        Console.WriteLine(numero1);
+
+        string? produto = null;
+
+        Console.WriteLine($"Produto: {produto.ToUpper()}");
+
+
+        // Operador ternario
+        var tempo = 16.5;
+
+        var resultado = tempo > 27?"calor" : "frio";
+        
+        Console.WriteLine(resultado);
+
+
+        float k = (float)z / w
