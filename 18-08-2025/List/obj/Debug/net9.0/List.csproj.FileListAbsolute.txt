@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\bin\Debug\net9.0\List.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\bin\Debug\net9.0\List.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\bin\Debug\net9.0\List.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\bin\Debug\net9.0\List.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\refint\List.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\List\obj\Debug\net9.0\ref\List.dll

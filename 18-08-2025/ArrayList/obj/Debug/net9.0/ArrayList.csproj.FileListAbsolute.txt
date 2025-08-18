@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\bin\Debug\net9.0\ArrayList.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\bin\Debug\net9.0\ArrayList.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\18-08-2025\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll
