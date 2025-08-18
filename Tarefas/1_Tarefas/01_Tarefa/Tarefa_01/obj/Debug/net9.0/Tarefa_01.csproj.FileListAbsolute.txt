@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\bin\Debug\net9.0\Tarefa_01.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\bin\Debug\net9.0\Tarefa_01.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\bin\Debug\net9.0\Tarefa_01.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\bin\Debug\net9.0\Tarefa_01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\bin\Debug\net9.0\Tarefa_01.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\refint\Tarefa_01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\Tarefa_01.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\Tarefa_01\obj\Debug\net9.0\ref\Tarefa_01.dll

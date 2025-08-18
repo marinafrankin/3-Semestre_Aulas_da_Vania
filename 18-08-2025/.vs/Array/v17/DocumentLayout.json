@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F6712BF7-60F8-4391-A38A-358A9BB4C756}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24EB4D9D-56E7-449E-BCA8-F51362B37A30}|Array_ArrayList_List\\Array_ArrayList_List.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\18-08-2025\\array_arraylist_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24EB4D9D-56E7-449E-BCA8-F51362B37A30}|Array_ArrayList_List\\Array_ArrayList_List.csproj|solutionrelative:array_arraylist_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41D11598-7C48-40D6-887D-12376993A3D9}|List\\List.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\18-08-2025\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D11598-7C48-40D6-887D-12376993A3D9}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB4D9D-56E7-449E-BCA8-F51362B37A30}|Array_ArrayList_List\\Array_ArrayList_List.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\18-08-2025\\array_arraylist_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EB4D9D-56E7-449E-BCA8-F51362B37A30}|Array_ArrayList_List\\Array_ArrayList_List.csproj|solutionrelative:array_arraylist_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\18-08-2025\\List\\Program.cs",
               "RelativeDocumentMoniker": "List\\Program.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\18-08-2025\\Array_ArrayList_List\\Program.cs",
               "RelativeDocumentMoniker": "Array_ArrayList_List\\Program.cs",
               "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\18-08-2025\\Array_ArrayList_List\\Program.cs",
               "RelativeToolTip": "Array_ArrayList_List\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T11:23:28.367Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "ArrayList\\Program.cs",
               "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\18-08-2025\\ArrayList\\Program.cs",
               "RelativeToolTip": "ArrayList\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T11:51:35.365Z",
               "EditorCaption": ""
