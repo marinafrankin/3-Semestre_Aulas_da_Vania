@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\bin\Debug\net9.0\Exercicio_02.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\bin\Debug\net9.0\Exercicio_02.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\bin\Debug\net9.0\Exercicio_02.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\bin\Debug\net9.0\Exercicio_02.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\bin\Debug\net9.0\Exercicio_02.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\refint\Exercicio_02.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\Exercicio_02.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\1_Tarefas\01_Tarefa\02_Exercicio\Exercicio_02\obj\Debug\net9.0\ref\Exercicio_02.dll

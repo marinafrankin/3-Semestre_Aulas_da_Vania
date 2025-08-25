@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\bin\Debug\net9.0\ICollection.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\bin\Debug\net9.0\ICollection.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\bin\Debug\net9.0\ICollection.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\bin\Debug\net9.0\ICollection.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\bin\Debug\net9.0\ICollection.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\refint\ICollection.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ICollection.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Interface\ICollection\obj\Debug\net9.0\ref\ICollection.dll

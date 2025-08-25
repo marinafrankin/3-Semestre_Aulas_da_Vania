@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Program.cs",
               "RelativeDocumentMoniker": "Projeto01\\Program.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Projeto01\\Data\\ApplicationDbContext.cs",
@@ -77,8 +77,7 @@
               "RelativeToolTip": "Projeto01\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T15:04:07.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T15:04:07.62Z"
             }
           ]
         }
