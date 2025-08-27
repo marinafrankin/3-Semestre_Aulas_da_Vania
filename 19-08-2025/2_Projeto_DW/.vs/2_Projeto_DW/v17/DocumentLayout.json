@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\19-08-2025\\2_projeto_dw\\projeto2dw\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|solutionrelative:projeto2dw\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\19-08-2025\\2_projeto_dw\\projeto2dw\\views\\disciplinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|solutionrelative:projeto2dw\\views\\disciplinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\19-08-2025\\2_projeto_dw\\projeto2dw\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|solutionrelative:projeto2dw\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\19-08-2025\\2_projeto_dw\\projeto2dw\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|solutionrelative:projeto2dw\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\19-08-2025\\2_projeto_dw\\projeto2dw\\views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17C804DC-52C8-43BB-B824-81864B9C31B9}|Projeto2DW\\Projeto2DW.csproj|solutionrelative:projeto2dw\\views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Projeto2DW\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Models\\Usuario.cs",
-              "RelativeToolTip": "Projeto2DW\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:34:03.525Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Disciplinas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projeto2DW\\Views\\Disciplinas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Disciplinas\\Create.cshtml",
+              "RelativeToolTip": "Projeto2DW\\Views\\Disciplinas\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T15:23:53.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto2DW\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "Projeto2DW\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projeto2DW\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Projeto2DW\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T15:20:49.643Z",
+              "WhenOpened": "2025-08-26T15:23:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Matriculas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projeto2DW\\Views\\Matriculas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\19-08-2025\\2_Projeto_DW\\Projeto2DW\\Views\\Matriculas\\Create.cshtml",
+              "RelativeToolTip": "Projeto2DW\\Views\\Matriculas\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T15:23:40.018Z",
               "EditorCaption": ""
             }
           ]

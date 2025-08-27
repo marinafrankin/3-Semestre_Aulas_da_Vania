@@ -4,7 +4,7 @@
     ViewData["Title"] = "Usuarios";
 }
 
-<h1>Criar Usuário</h1>
+<h1>Usuário</h1>
 
 <p>
     <a class="btn btn-primary" asp-action="Create">Criar novo usuario</a>
@@ -17,9 +17,6 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Email)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Senha)
             </th>
             <th></th>
         </tr>
@@ -34,12 +31,9 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Senha)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.UsuarioId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.UsuarioId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.UsuarioId">Delete</a>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.UsuarioId">Editar</a> |
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.UsuarioId">Detalhes</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.UsuarioId">Deletar</a>
             </td>
         </tr>
 }

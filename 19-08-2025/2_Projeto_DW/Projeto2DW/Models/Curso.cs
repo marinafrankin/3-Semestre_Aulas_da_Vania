@@ -4,6 +4,6 @@
     {
         public int CursoId { get; set; }
         public string? Nome { get; set; }
-        public List<Disciplina> Diciplinas { get; set; }  // Lista de Disciplinas
+        public List<Disciplina>? Diciplinas { get; set; }  // Lista de Disciplinas
     }
 }

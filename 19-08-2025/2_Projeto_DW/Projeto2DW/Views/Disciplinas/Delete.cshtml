@@ -1,0 +1,33 @@
+﻿@model Projeto2DW.Models.Disciplina
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Deletar</h1>
+
+<h3>Você tem certeza que quer deletar esta diciplina ?</h3>
+<div>
+    <h4>Disciplina</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Curso)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Curso.CursoId)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="DisciplinaId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a class="btn btn-primary" asp-action="Index">Voltar</a>
+    </form>
+</div>
