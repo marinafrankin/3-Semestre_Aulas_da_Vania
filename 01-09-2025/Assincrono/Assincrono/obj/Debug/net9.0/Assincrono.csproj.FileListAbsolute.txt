@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\refint\Assincrono.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Assincrono\Assincrono\obj\Debug\net9.0\ref\Assincrono.dll

@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\bin\Debug\net9.0\Sincrono.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\bin\Debug\net9.0\Sincrono.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\bin\Debug\net9.0\Sincrono.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\bin\Debug\net9.0\Sincrono.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\bin\Debug\net9.0\Sincrono.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\refint\Sincrono.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\Sincrono.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\01-09-2025\Sincrono\Sincrono\obj\Debug\net9.0\ref\Sincrono.dll

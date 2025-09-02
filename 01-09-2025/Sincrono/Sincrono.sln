@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sincrono", "Sincrono\Sincrono.csproj", "{1AED0513-ECDE-423C-B5B5-B675897F9F9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AED0513-ECDE-423C-B5B5-B675897F9F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AED0513-ECDE-423C-B5B5-B675897F9F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AED0513-ECDE-423C-B5B5-B675897F9F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AED0513-ECDE-423C-B5B5-B675897F9F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129F1271-0307-4A68-A563-72512AE18C20}
+	EndGlobalSection
+EndGlobal
