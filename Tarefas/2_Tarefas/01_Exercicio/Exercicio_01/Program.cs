@@ -12,47 +12,50 @@
 
 // ISalario
 
-Console.WriteLine("Salários");
-Console.ReadKey();
 
-static void CalcularSalario()
+Console.WriteLine("--> Salários <--");
+
+internal interface ISalario
 {
-    Console.WriteLine("");
-    var cafe = FuncionarioHorista();
-    Console.WriteLine("\n Salário a hora");
-    var pao = FuncionarioMensalista();
-    diferencaSalrios(horas, mensalidade);
+    public double Desconto { get; set; }
+    public double CalcularSalario();
 }
 
-static Horas FuncionarioHorista()
+class FuncionarioMensalista : ISalario
 {
-    Console.WriteLine("Salário de horas trabalhadas: ");
-    Thread.Sleep(2000);
-    Console.WriteLine("Valor a hora: ");
-    Thread.Sleep(2500);
-    return new Horas();
-}
-
-static void diferencaSalrios(Horas horas, Mensalidade mensalidade)
-{
-    Console.WriteLine("Salário por hora: ");
-    Thread.Sleep(2000);
-    Console.WriteLine("Salário fixo mensal: ");
-}
-
-static Mensalidade FuncionarioMensalista()
-{
-    Console.WriteLine("Salário fixo mensal: ");
-    Thread.Sleep(2000);
-    return new Mensalidade();
+    public double Desconto { get; set; }
+    public double Salario { get; set; }
+    public double CalcularSalario()
+    {
+        var salario = Salario - Desconto;
+        return salario;
+    }
 }
 
 
-
-internal class Horas
+class FuncionarioHorista : ISalario
 {
+    public double Desconto { get; set; }
+    public int HorasTrabalhadas { get; set; }
+    public double ValorHora { get; set; }
+
+
+    public FuncionarioHorista(double desconto, int horas, double valorHora)
+    {
+        Desconto = desconto;
+        HorasTrabalhadas = horas;
+        ValorHora = valorHora;
+    }
+
+
+    public double CalacularSalario()
+    {
+        var salario = (ValorHora * HorasTrabalhadas) - Desconto;
+        return salario;
+    }
 }
 
-internal class Mensalidade
-{
-}
+var funcionarioHorista = new FuncionarioHorista(150, 100, 2.5) { };
+double salario = funcionarioHorista.CalcularSalario();
+
+Console.WriteLine(salario);

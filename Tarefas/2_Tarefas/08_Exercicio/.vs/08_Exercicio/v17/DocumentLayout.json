@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Tarefas\\2_Tarefas\\08_Exercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9261244-BBC8-42FC-B282-370487DACD78}|Exercicio_08\\Exercicio_08.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tarefas\\2_tarefas\\08_exercicio\\exercicio_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9261244-BBC8-42FC-B282-370487DACD78}|Exercicio_08\\Exercicio_08.csproj|solutionrelative:exercicio_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Tarefas\\2_Tarefas\\08_Exercicio\\Exercicio_08\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_08\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Tarefas\\2_Tarefas\\08_Exercicio\\Exercicio_08\\Program.cs",
+              "RelativeToolTip": "Exercicio_08\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:10:23.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
