@@ -13,7 +13,7 @@ namespace ProjetoMongoDB.Models
         {
             try
             {
-                MongoClientSettings settings = MongoClientSettings.FromUrl(new.MongoUrl(ConnectionString));
+                MongoClientSettings settings = MongoClientSettings.FromUrl(new MongoUrl(ConnectionString));
                 if (Isssl)
                 {
                     settings.SslSettings = new SslSettings
