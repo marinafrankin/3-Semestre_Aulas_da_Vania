@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6270CF6-4467-4D9A-A813-67C9BC79E89C}|Composicao 2\\Composicao 2.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\08-09-2025\\heranca\\composicao 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6270CF6-4467-4D9A-A813-67C9BC79E89C}|Composicao 2\\Composicao 2.csproj|solutionrelative:composicao 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DD268-07E3-48A4-B647-361031321007}|Heranca\\Heranca.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\08-09-2025\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04DD268-07E3-48A4-B647-361031321007}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D1A3D7-EF8A-445F-9AF5-27DB86AA5C5A}|ClasseAssociativa\\ClasseAssociativa.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\08-09-2025\\heranca\\classeassociativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1A3D7-EF8A-445F-9AF5-27DB86AA5C5A}|ClasseAssociativa\\ClasseAssociativa.csproj|solutionrelative:classeassociativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{926FDF77-CF95-4E81-B621-A73AA21782C0}|Agregacao\\Agregacao.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\08-09-2025\\heranca\\agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{A2EA375A-9197-4657-A7C8-5BF48758EBF9}|AssociacaoBilateral\\AssociacaoBilateral.csproj|solutionrelative:associacaobilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 1 e 2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composicao 1 e 2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6270CF6-4467-4D9A-A813-67C9BC79E89C}|Composicao 2\\Composicao 2.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\08-09-2025\\heranca\\composicao 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6270CF6-4467-4D9A-A813-67C9BC79E89C}|Composicao 2\\Composicao 2.csproj|solutionrelative:composicao 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04DD268-07E3-48A4-B647-361031321007}|Heranca\\Heranca.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\08-09-2025\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DD268-07E3-48A4-B647-361031321007}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,30 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 2\\Program.cs",
-              "RelativeDocumentMoniker": "Composicao 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 2\\Program.cs",
-              "RelativeToolTip": "Composicao 2\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCEAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\ClasseAssociativa\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseAssociativa\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\ClasseAssociativa\\Program.cs",
+              "RelativeToolTip": "ClasseAssociativa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:56:59.468Z",
+              "WhenOpened": "2025-09-15T11:49:43.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 1 e 2\\Program.cs",
-              "RelativeDocumentMoniker": "Composicao 1 e 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 1 e 2\\Program.cs",
-              "RelativeToolTip": "Composicao 1 e 2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\AssociacaoBilateral\\Program.cs",
+              "RelativeDocumentMoniker": "AssociacaoBilateral\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\AssociacaoBilateral\\Program.cs",
+              "RelativeToolTip": "AssociacaoBilateral\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:40:45.886Z"
+              "WhenOpened": "2025-09-15T11:49:49.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Agregacao\\Program.cs",
               "RelativeDocumentMoniker": "Agregacao\\Program.cs",
@@ -67,31 +68,34 @@
               "RelativeToolTip": "Agregacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:12:37.732Z"
+              "WhenOpened": "2025-09-15T11:49:58.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\AssociacaoBilateral\\Program.cs",
-              "RelativeDocumentMoniker": "AssociacaoBilateral\\Program.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\AssociacaoBilateral\\Program.cs",
-              "RelativeToolTip": "AssociacaoBilateral\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 2\\Program.cs",
+              "RelativeDocumentMoniker": "Composicao 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Composicao 2\\Program.cs",
+              "RelativeToolTip": "Composicao 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T11:57:21.413Z"
+              "WhenOpened": "2025-09-15T11:49:37.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
               "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\08-09-2025\\Heranca\\Heranca\\Program.cs",
               "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T11:24:29.02Z"
+              "WhenOpened": "2025-09-15T11:48:43.243Z",
+              "EditorCaption": ""
             }
           ]
         }

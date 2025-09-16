@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sincrono")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10c3af722f46bce3d608922223430644f4ca9949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5f7dd525e61ae00daaf9c6550bdbaf520d4c5e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sincrono")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sincrono")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\bin\Debug\net9.0\ClasseAssociativa.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\bin\Debug\net9.0\ClasseAssociativa.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\bin\Debug\net9.0\ClasseAssociativa.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\bin\Debug\net9.0\ClasseAssociativa.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\bin\Debug\net9.0\ClasseAssociativa.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\refint\ClasseAssociativa.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ClasseAssociativa.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\08-09-2025\Heranca\ClasseAssociativa\obj\Debug\net9.0\ref\ClasseAssociativa.dll
