@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AE63AB-6234-4942-9AC7-0BC9884AF66D}|..\\atividade_02\\atividade_02.csproj|c:\\users\\kaiqs\\desktop\\a\\atividade_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4348C3-6F40-4EE7-8633-2923B9F45DD1}|atividade_01.csproj|c:\\users\\kaiqs\\desktop\\a\\atividade_01\\atividade_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD4348C3-6F40-4EE7-8633-2923B9F45DD1}|atividade_01.csproj|solutionrelative:atividade_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_09\\ArquivoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_08\\dowload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_07\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_07\\RepositorioUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_06\\Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_09\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_08\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_07\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_05\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\atividade_02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiqs\\Desktop\\at\\atividade_01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atividade_02\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_02\\Program.cs",
+              "RelativeToolTip": "..\\atividade_02\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:52:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArquivoService.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_09\\ArquivoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_09\\ArquivoService.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_09\\ArquivoService.cs",
+              "RelativeToolTip": "..\\..\\atividade_09\\ArquivoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:34:45.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dowload.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_08\\dowload.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_08\\dowload.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_08\\dowload.cs",
+              "RelativeToolTip": "..\\..\\atividade_08\\dowload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:33:17.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_07\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_07\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_07\\Usuario.cs",
+              "RelativeToolTip": "..\\..\\atividade_07\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:30:39.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_07\\RepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_07\\RepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_07\\RepositorioUsuario.cs",
+              "RelativeToolTip": "..\\..\\atividade_07\\RepositorioUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:30:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_06\\Livro.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_06\\Livro.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_06\\Livro.cs",
+              "RelativeToolTip": "..\\..\\atividade_06\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:27:17.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_09\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_09\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_09\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:22:43.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_08\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_08\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_08\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:22:25.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_07\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_07\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_07\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:22:08.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_06\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_06\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_06\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:21:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_05\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_05\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:20:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_04\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_04\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:18:45.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_03\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_03\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:18:01.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\atividade_02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\atividade_02\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\atividade_02\\Program.cs",
+              "RelativeToolTip": "..\\..\\atividade_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:17:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "atividade_01.csproj",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_01\\atividade_01.csproj",
+              "RelativeDocumentMoniker": "atividade_01.csproj",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_01\\atividade_01.csproj",
+              "RelativeToolTip": "atividade_01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T01:15:48.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\at\\atividade_01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\at\\atividade_01\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\at\\atividade_01\\Program.cs",
+              "RelativeToolTip": "..\\..\\at\\atividade_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:15:31.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

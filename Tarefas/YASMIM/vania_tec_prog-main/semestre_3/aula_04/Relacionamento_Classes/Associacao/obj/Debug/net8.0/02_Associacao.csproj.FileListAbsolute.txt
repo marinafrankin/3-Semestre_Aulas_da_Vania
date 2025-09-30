@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_Associacao.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_Associacao.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_Associacao.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_Associacao.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_Associacao.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\refint\02_Associacao.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_Associacao.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\ref\02_Associacao.dll

@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\bin\Debug\net9.0\Interface.exe
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\bin\Debug\net9.0\Interface.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\bin\Debug\net9.0\Interface.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\Interface\obj\Debug\net9.0\ref\Interface.dll

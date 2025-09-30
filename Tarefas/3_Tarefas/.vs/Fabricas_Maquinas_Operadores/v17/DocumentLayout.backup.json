@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Tarefas\\3_Tarefas\\Fabricas_Maquinas_Operadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619450DA-6830-44E4-8BEB-56A0419E379A}|Fabricas_Maquinas_Operadores\\Fabricas_Maquinas_Operadores.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tarefas\\3_tarefas\\fabricas_maquinas_operadores\\fabricas_maquinas_operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619450DA-6830-44E4-8BEB-56A0419E379A}|Fabricas_Maquinas_Operadores\\Fabricas_Maquinas_Operadores.csproj|solutionrelative:fabricas_maquinas_operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Tarefas\\3_Tarefas\\Fabricas_Maquinas_Operadores\\Fabricas_Maquinas_Operadores\\Program.cs",
+              "RelativeDocumentMoniker": "Fabricas_Maquinas_Operadores\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Tarefas\\3_Tarefas\\Fabricas_Maquinas_Operadores\\Fabricas_Maquinas_Operadores\\Program.cs",
+              "RelativeToolTip": "Fabricas_Maquinas_Operadores\\Program.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:46:40.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

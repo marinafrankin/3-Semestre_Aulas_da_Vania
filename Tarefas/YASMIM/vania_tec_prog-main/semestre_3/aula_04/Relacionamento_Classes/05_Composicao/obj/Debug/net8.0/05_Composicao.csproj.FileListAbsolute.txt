@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\bin\Debug\net8.0\05_Composicao.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\bin\Debug\net8.0\05_Composicao.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\bin\Debug\net8.0\05_Composicao.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\bin\Debug\net8.0\05_Composicao.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\bin\Debug\net8.0\05_Composicao.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\refint\05_Composicao.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\05_Composicao.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\05_Composicao\obj\Debug\net8.0\ref\05_Composicao.dll

@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\bin\Debug\net8.0\Relacionamento_Classes.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\bin\Debug\net8.0\Relacionamento_Classes.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\bin\Debug\net8.0\Relacionamento_Classes.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\bin\Debug\net8.0\Relacionamento_Classes.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\bin\Debug\net8.0\Relacionamento_Classes.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\refint\Relacionamento_Classes.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\Relacionamento_Classes.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Relacionamento_Classes\obj\Debug\net8.0\ref\Relacionamento_Classes.dll

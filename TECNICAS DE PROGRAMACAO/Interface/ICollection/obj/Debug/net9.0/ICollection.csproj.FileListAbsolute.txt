@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\bin\Debug\net9.0\ICollection.exe
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\bin\Debug\net9.0\ICollection.deps.json
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\bin\Debug\net9.0\ICollection.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\bin\Debug\net9.0\ICollection.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\bin\Debug\net9.0\ICollection.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\refint\ICollection.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ICollection.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Interface\ICollection\obj\Debug\net9.0\ref\ICollection.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B8B5E4-F64F-40ED-AEAB-577EF6D08B21}|AssociacaoUnilateral\\03_AgregacaoUnilateral.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\associacaounilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B8B5E4-F64F-40ED-AEAB-577EF6D08B21}|AssociacaoUnilateral\\03_AgregacaoUnilateral.csproj|solutionrelative:associacaounilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451B9A-EFAA-4349-800A-E7DB9BBF9044}|05_Composicao\\05_Composicao.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\05_composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451B9A-EFAA-4349-800A-E7DB9BBF9044}|05_Composicao\\05_Composicao.csproj|solutionrelative:05_composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E61E39-4AAF-4D69-9E4A-5CECD0FFE9CB}|Classe_Associativa\\Classe_Associativa.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\classe_associativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E61E39-4AAF-4D69-9E4A-5CECD0FFE9CB}|Classe_Associativa\\Classe_Associativa.csproj|solutionrelative:classe_associativa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451B9A-EFAA-4349-800A-E7DB9BBF9044}|05_Composicao\\05_Composicao.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\05_composicao\\05_composicao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A451B9A-EFAA-4349-800A-E7DB9BBF9044}|05_Composicao\\05_Composicao.csproj|solutionrelative:05_composicao\\05_composicao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53365AA-5F10-44B7-98B9-ABBB3424E201}|05_Composicao1pra1\\04_Composicao1pra1.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\05_composicao1pra1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53365AA-5F10-44B7-98B9-ABBB3424E201}|05_Composicao1pra1\\04_Composicao1pra1.csproj|solutionrelative:05_composicao1pra1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E01B18-3FF6-42AB-8DD0-9F59AF9DB643}|Associacao\\02_AssociacaoBilateral.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E01B18-3FF6-42AB-8DD0-9F59AF9DB643}|Associacao\\02_AssociacaoBilateral.csproj|solutionrelative:associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31325080-AE7E-4083-B42F-321854FE1B23}|Relacionamento_Classes\\01_Heranca.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_04\\relacionamento_classes\\relacionamento_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31325080-AE7E-4083-B42F-321854FE1B23}|Relacionamento_Classes\\01_Heranca.csproj|solutionrelative:relacionamento_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\Classe_Associativa\\Program.cs",
+              "RelativeDocumentMoniker": "Classe_Associativa\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\Classe_Associativa\\Program.cs",
+              "RelativeToolTip": "Classe_Associativa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:24:36.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05_Composicao.csproj",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\05_Composicao\\05_Composicao.csproj",
+              "RelativeDocumentMoniker": "05_Composicao\\05_Composicao.csproj",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\05_Composicao\\05_Composicao.csproj",
+              "RelativeToolTip": "05_Composicao\\05_Composicao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T13:58:02.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\05_Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "05_Composicao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\05_Composicao\\Program.cs",
+              "RelativeToolTip": "05_Composicao\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:57:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\05_Composicao1pra1\\Program.cs",
+              "RelativeDocumentMoniker": "05_Composicao1pra1\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\05_Composicao1pra1\\Program.cs",
+              "RelativeToolTip": "05_Composicao1pra1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:41:56.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\AssociacaoUnilateral\\Program.cs",
+              "RelativeDocumentMoniker": "AssociacaoUnilateral\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\AssociacaoUnilateral\\Program.cs",
+              "RelativeToolTip": "AssociacaoUnilateral\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:29:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\Associacao\\Program.cs",
+              "RelativeDocumentMoniker": "Associacao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\Associacao\\Program.cs",
+              "RelativeToolTip": "Associacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:58:12.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\Relacionamento_Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Relacionamento_Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_04\\Relacionamento_Classes\\Relacionamento_Classes\\Program.cs",
+              "RelativeToolTip": "Relacionamento_Classes\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:20:52.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

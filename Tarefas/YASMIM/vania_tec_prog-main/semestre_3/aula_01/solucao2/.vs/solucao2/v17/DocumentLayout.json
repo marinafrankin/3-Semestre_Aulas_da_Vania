@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\solucao2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7825277-19F7-4041-8214-5AA13CF07902}|projeto2\\projeto2.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\solucao2\\projeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7825277-19F7-4041-8214-5AA13CF07902}|projeto2\\projeto2.csproj|solutionrelative:projeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\solucao2\\projeto2\\Program.cs",
+              "RelativeDocumentMoniker": "projeto2\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\solucao2\\projeto2\\Program.cs",
+              "RelativeToolTip": "projeto2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:58:40.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

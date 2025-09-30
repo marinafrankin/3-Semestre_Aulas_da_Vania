@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\bin\Debug\net8.0\Orientacao_Objeto.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\bin\Debug\net8.0\Orientacao_Objeto.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\bin\Debug\net8.0\Orientacao_Objeto.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\bin\Debug\net8.0\Orientacao_Objeto.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\bin\Debug\net8.0\Orientacao_Objeto.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\refint\Orientacao_Objeto.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\Orientacao_Objeto.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Orientacao_Objeto\Orientacao_Objeto\obj\Debug\net8.0\ref\Orientacao_Objeto.dll

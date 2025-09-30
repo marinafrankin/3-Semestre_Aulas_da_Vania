@@ -1,0 +1,14 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\bin\Debug\net9.0\projeto2.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\bin\Debug\net9.0\projeto2.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\bin\Debug\net9.0\projeto2.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\bin\Debug\net9.0\projeto2.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\bin\Debug\net9.0\projeto2.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\refint\projeto2.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\projeto2.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\solucao2\projeto2\obj\Debug\net9.0\ref\projeto2.dll

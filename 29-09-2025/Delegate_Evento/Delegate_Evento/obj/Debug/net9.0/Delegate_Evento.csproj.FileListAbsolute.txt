@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegate_Evento.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegate_Evento.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegate_Evento.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegate_Evento.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegate_Evento.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\refint\Delegate_Evento.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegate_Evento.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\ref\Delegate_Evento.dll

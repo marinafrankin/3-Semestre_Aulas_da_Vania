@@ -1,0 +1,14 @@
+C:\Users\kaiqs\Desktop\atividade_03\bin\Debug\net8.0\atividade_03.exe
+C:\Users\kaiqs\Desktop\atividade_03\bin\Debug\net8.0\atividade_03.deps.json
+C:\Users\kaiqs\Desktop\atividade_03\bin\Debug\net8.0\atividade_03.runtimeconfig.json
+C:\Users\kaiqs\Desktop\atividade_03\bin\Debug\net8.0\atividade_03.dll
+C:\Users\kaiqs\Desktop\atividade_03\bin\Debug\net8.0\atividade_03.pdb
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.AssemblyInfoInputs.cache
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.AssemblyInfo.cs
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.dll
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\refint\atividade_03.dll
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.pdb
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\atividade_03.genruntimeconfig.cache
+C:\Users\kaiqs\Desktop\atividade_03\obj\Debug\net8.0\ref\atividade_03.dll

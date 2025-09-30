@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\bin\Debug\net8.0\Enumerable.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\bin\Debug\net8.0\Enumerable.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\bin\Debug\net8.0\Enumerable.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\bin\Debug\net8.0\Enumerable.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\bin\Debug\net8.0\Enumerable.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\refint\Enumerable.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\Enumerable.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Enumerable\obj\Debug\net8.0\ref\Enumerable.dll

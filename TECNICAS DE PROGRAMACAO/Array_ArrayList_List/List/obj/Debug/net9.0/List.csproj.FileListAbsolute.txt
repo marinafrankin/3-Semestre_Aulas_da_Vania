@@ -1,0 +1,14 @@
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\bin\Debug\net9.0\List.exe
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\bin\Debug\net9.0\List.deps.json
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\bin\Debug\net9.0\List.dll
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\bin\Debug\net9.0\List.pdb
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.dll
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\refint\List.dll
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.pdb
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\FATEC\Desenvolvimento Web III\2025_2\Array_ArrayList_List\List\obj\Debug\net9.0\ref\List.dll

@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\bin\Debug\net8.0\Collection.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\bin\Debug\net8.0\Collection.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\bin\Debug\net8.0\Collection.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\bin\Debug\net8.0\Collection.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\refint\Collection.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_02\Interface\Collection\obj\Debug\net8.0\ref\Collection.dll

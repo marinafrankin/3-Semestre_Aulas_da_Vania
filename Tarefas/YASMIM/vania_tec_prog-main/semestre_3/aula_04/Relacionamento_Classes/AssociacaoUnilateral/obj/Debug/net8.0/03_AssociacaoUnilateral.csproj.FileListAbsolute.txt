@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\bin\Debug\net8.0\03_AssociacaoUnilateral.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\bin\Debug\net8.0\03_AssociacaoUnilateral.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\bin\Debug\net8.0\03_AssociacaoUnilateral.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\bin\Debug\net8.0\03_AssociacaoUnilateral.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\bin\Debug\net8.0\03_AssociacaoUnilateral.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\refint\03_AssociacaoUnilateral.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\03_AssociacaoUnilateral.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\AssociacaoUnilateral\obj\Debug\net8.0\ref\03_AssociacaoUnilateral.dll

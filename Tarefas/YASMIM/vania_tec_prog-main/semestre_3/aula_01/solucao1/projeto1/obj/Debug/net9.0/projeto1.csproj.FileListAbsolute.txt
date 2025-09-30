@@ -1,0 +1,14 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\bin\Debug\net9.0\projeto1.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\bin\Debug\net9.0\projeto1.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\bin\Debug\net9.0\projeto1.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\bin\Debug\net9.0\projeto1.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\bin\Debug\net9.0\projeto1.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\refint\projeto1.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\projeto1.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_01\solucao1\projeto1\obj\Debug\net9.0\ref\projeto1.dll

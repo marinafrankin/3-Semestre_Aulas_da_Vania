@@ -1,0 +1,14 @@
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\bin\Debug\net8.0\exercicio_vania.exe
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\bin\Debug\net8.0\exercicio_vania.deps.json
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\bin\Debug\net8.0\exercicio_vania.runtimeconfig.json
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\bin\Debug\net8.0\exercicio_vania.dll
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\bin\Debug\net8.0\exercicio_vania.pdb
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.dll
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\refint\exercicio_vania.dll
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.pdb
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\exercicio_vania.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\atividade\exercicio_vania\exercicio_vania\obj\Debug\net8.0\ref\exercicio_vania.dll

@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\bin\Debug\net8.0\Assincrono.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\bin\Debug\net8.0\Assincrono.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\bin\Debug\net8.0\Assincrono.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\bin\Debug\net8.0\Assincrono.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\bin\Debug\net8.0\Assincrono.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\refint\Assincrono.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\Assincrono.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_03\Assincrono\Assincrono\obj\Debug\net8.0\ref\Assincrono.dll

@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\bin\Debug\net9.0\sincrono.exe
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\bin\Debug\net9.0\sincrono.deps.json
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\bin\Debug\net9.0\sincrono.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\bin\Debug\net9.0\sincrono.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\bin\Debug\net9.0\sincrono.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\refint\sincrono.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\sincrono.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\sincrono\sincrono\obj\Debug\net9.0\ref\sincrono.dll

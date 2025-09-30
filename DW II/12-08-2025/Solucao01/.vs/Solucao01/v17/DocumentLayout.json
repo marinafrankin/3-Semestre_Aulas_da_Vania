@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\12-08-2025\\solucao01\\projeto01\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDDB69E-343E-421A-866B-2B0C5F2BFCDD}|Projeto01\\Projeto01.csproj|solutionrelative:projeto01\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto01\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Program.cs",
+              "RelativeToolTip": "Projeto01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:27:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\appsettings.json",
+              "RelativeDocumentMoniker": "Projeto01\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\appsettings.json",
+              "RelativeToolTip": "Projeto01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T15:21:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Projeto01\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Projeto01\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:13:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Projeto01\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\12-08-2025\\Solucao01\\Projeto01\\Models\\Produto.cs",
+              "RelativeToolTip": "Projeto01\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:04:07.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

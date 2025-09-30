@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_AssociacaoBilateral.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_AssociacaoBilateral.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_AssociacaoBilateral.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_AssociacaoBilateral.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\bin\Debug\net8.0\02_AssociacaoBilateral.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\refint\02_AssociacaoBilateral.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\02_AssociacaoBilateral.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Associacao\obj\Debug\net8.0\ref\02_AssociacaoBilateral.dll

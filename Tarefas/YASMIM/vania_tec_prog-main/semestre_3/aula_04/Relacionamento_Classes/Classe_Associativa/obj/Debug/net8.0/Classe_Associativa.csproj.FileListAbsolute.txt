@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\bin\Debug\net8.0\Classe_Associativa.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\bin\Debug\net8.0\Classe_Associativa.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\bin\Debug\net8.0\Classe_Associativa.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\bin\Debug\net8.0\Classe_Associativa.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\bin\Debug\net8.0\Classe_Associativa.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\refint\Classe_Associativa.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\Classe_Associativa.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_04\Relacionamento_Classes\Classe_Associativa\obj\Debug\net8.0\ref\Classe_Associativa.dll

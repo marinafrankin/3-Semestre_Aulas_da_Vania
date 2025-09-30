@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\bin\Debug\net9.0\Evento.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\bin\Debug\net9.0\Evento.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\bin\Debug\net9.0\Evento.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\bin\Debug\net9.0\Evento.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\bin\Debug\net9.0\Evento.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\refint\Evento.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\Evento.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\29-09-2025\Delegate_Evento\Evento\obj\Debug\net9.0\ref\Evento.dll
