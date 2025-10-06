@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\bin\Debug\net9.0\EventHandler.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\bin\Debug\net9.0\EventHandler.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\bin\Debug\net9.0\EventHandler.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\bin\Debug\net9.0\EventHandler.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\bin\Debug\net9.0\EventHandler.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\refint\EventHandler.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\EventHandler.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\4_Tarefas\EventHandler\EventHandler\obj\Debug\net9.0\ref\EventHandler.dll

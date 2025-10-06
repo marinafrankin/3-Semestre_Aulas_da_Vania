@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA076674-2731-4E59-B595-01AA80F18FD9}|EventHandler_com_parametros\\EventHandler_com_parametros.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\06-10-2025\\delegate_evento\\eventhandler_com_parametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA076674-2731-4E59-B595-01AA80F18FD9}|EventHandler_com_parametros\\EventHandler_com_parametros.csproj|solutionrelative:eventhandler_com_parametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2427FD0-D898-4EEC-9B50-D5D811C2A904}|EventHandler_sem_par\u00E2metros\\EventHandler_sem_par\u00E2metros.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\06-10-2025\\delegate_evento\\eventhandler_sem_par\u00E2metros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2427FD0-D898-4EEC-9B50-D5D811C2A904}|EventHandler_sem_par\u00E2metros\\EventHandler_sem_par\u00E2metros.csproj|solutionrelative:eventhandler_sem_par\u00E2metros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F591BF0F-A06A-4300-BDFC-4FC42D8DE886}|Evento\\Evento.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\06-10-2025\\delegate_evento\\evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F591BF0F-A06A-4300-BDFC-4FC42D8DE886}|Evento\\Evento.csproj|solutionrelative:evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C1DE46-5D07-4E94-B299-79D539015F8C}|Delegate_Evento\\Delegte.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\06-10-2025\\delegate_evento\\delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C1DE46-5D07-4E94-B299-79D539015F8C}|Delegate_Evento\\Delegte.csproj|solutionrelative:delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\EventHandler_com_parametros\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandler_com_parametros\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\EventHandler_com_parametros\\Program.cs",
+              "RelativeToolTip": "EventHandler_com_parametros\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:31:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\EventHandler_sem_par\u00E2metros\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandler_sem_par\u00E2metros\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\EventHandler_sem_par\u00E2metros\\Program.cs",
+              "RelativeToolTip": "EventHandler_sem_par\u00E2metros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:30:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\Evento\\Program.cs",
+              "RelativeToolTip": "Evento\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:03:53.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\Delegate_Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\06-10-2025\\Delegate_Evento\\Delegate_Evento\\Program.cs",
+              "RelativeToolTip": "Delegate_Evento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:51:06.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegte.exe
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegte.deps.json
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegte.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegte.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\bin\Debug\net9.0\Delegte.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\refint\Delegte.dll
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.pdb
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\Delegte.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2025_2\Delegate_Evento\Delegate_Evento\obj\Debug\net9.0\ref\Delegte.dll
