@@ -31,6 +31,13 @@ namespace ProjetoMongoDB.Models
             }
         } // Fim do constrututor
 
-       
+        public IMongoCollection<Evento> Evento
+        {
+            get
+            {
+                return _database.GetCollection<Evento>("Evento");
+            }
+        }
+
     } // Fim da classe
 }

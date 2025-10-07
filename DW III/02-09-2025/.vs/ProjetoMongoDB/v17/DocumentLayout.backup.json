@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw ii\\02-09-2025\\projetomongodb\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw iii\\02-09-2025\\projetomongodb\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw ii\\02-09-2025\\projetomongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw iii\\02-09-2025\\projetomongodb\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw ii\\02-09-2025\\projetomongodb\\models\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\models\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw iii\\02-09-2025\\projetomongodb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw ii\\02-09-2025\\projetomongodb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw iii\\02-09-2025\\projetomongodb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw iii\\02-09-2025\\projetomongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\dw iii\\02-09-2025\\projetomongodb\\models\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA9DE7-0129-458B-B1E6-884B502F43F9}|ProjetoMongoDB\\ProjetoMongoDB.csproj|solutionrelative:projetomongodb\\models\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\appsettings.json",
-              "RelativeDocumentMoniker": "ProjetoMongoDB\\appsettings.json",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\appsettings.json",
-              "RelativeToolTip": "ProjetoMongoDB\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-30T15:30:31.632Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Views\\Evento\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMongoDB\\Views\\Evento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Views\\Evento\\Index.cshtml",
+              "RelativeToolTip": "ProjetoMongoDB\\Views\\Evento\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T14:00:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoMongoDB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoMongoDB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:46:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMongoDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoMongoDB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T13:45:39.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoMongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Program.cs",
+              "RelativeToolTip": "ProjetoMongoDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:08:38.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextMongoDb.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Models\\ContextMongoDb.cs",
+              "RelativeDocumentMoniker": "ProjetoMongoDB\\Models\\ContextMongoDb.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Models\\ContextMongoDb.cs",
+              "RelativeToolTip": "ProjetoMongoDB\\Models\\ContextMongoDb.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:05:01.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EventosController.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\Controllers\\EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Controllers\\EventosController.cs",
               "RelativeDocumentMoniker": "ProjetoMongoDB\\Controllers\\EventosController.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\Controllers\\EventosController.cs",
               "RelativeToolTip": "ProjetoMongoDB\\Controllers\\EventosController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAmwEgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T15:22:56.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Eventos.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\Models\\Eventos.cs",
-              "RelativeDocumentMoniker": "ProjetoMongoDB\\Models\\Eventos.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\Models\\Eventos.cs",
-              "RelativeToolTip": "ProjetoMongoDB\\Models\\Eventos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T15:16:09.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ProjetoMongoDB\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\Models\\User.cs",
-              "RelativeToolTip": "ProjetoMongoDB\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T14:40:36.9Z",
               "EditorCaption": ""
             }
           ]

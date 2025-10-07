@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ndmvsH/e3NU=",
+  "dgSpecHash": "VuhYa3ZVS/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\ProjetoMongoDB.csproj",
+  "projectFilePath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\ProjetoMongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marina\\.nuget\\packages\\aspnetcore.identity.mongodbcore\\3.1.2\\aspnetcore.identity.mongodbcore.3.1.2.nupkg.sha512",
     "C:\\Users\\Marina\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

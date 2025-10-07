@@ -8521,11 +8521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\ProjetoMongoDB.csproj",
+      "projectUniqueName": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\ProjetoMongoDB.csproj",
       "projectName": "ProjetoMongoDB",
-      "projectPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\ProjetoMongoDB.csproj",
+      "projectPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\ProjetoMongoDB.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW II\\02-09-2025\\ProjetoMongoDB\\obj\\",
+      "outputPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\DW III\\02-09-2025\\ProjetoMongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

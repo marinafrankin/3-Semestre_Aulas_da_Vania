@@ -4,12 +4,12 @@ using ProjetoMongoDB.Services;
 using ProjetoMongoDB.Settings;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using ProjetoMongoDB.Data;
+
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddDbContext<ProjetoMongoDBContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ProjetoMongoDBContext") ?? throw new InvalidOperationException("Connection string 'ProjetoMongoDBContext' not found.")));
 
+
+builder.Services.AddControllersWithViews();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

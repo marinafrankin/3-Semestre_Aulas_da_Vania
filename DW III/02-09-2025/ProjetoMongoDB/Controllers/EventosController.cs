@@ -1,28 +1,32 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MongoDB.Driver;
 using ProjetoMongoDB.Models;
 
 namespace ProjetoMongoDB.Controllers
 {
-    public class EventoController : Controller
+    public class EventosController : Controller
     {
         private readonly ContextMongoDb _context;
         private readonly UserManager<ApplicationUser> _userManager;
 
-        public EventoController(ContextMongoDb context, UserManager<ApplicationUser> userManager)
+        public EventosController(ContextMongoDb context, UserManager<ApplicationUser> userManager)
         {
             _context = context;
             _userManager = userManager;
         }
 
         // GET: Evento
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Evento.Find().ToListAsync());
+            return View(await _context.Evento.Find(_ => true).ToListAsync());
         }
 
         // GET: Evento/Details/5
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Details(Guid? id)
         {
             if (id == null)
@@ -30,8 +34,8 @@ namespace ProjetoMongoDB.Controllers
                 return NotFound();
             }
 
-            var evento = await _context.Evento
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var evento = await _context.Evento.Find(m => m.Id == id).FirstOrDefaultAsync();
+
             if (evento == null)
             {
                 return NotFound();
@@ -41,6 +45,7 @@ namespace ProjetoMongoDB.Controllers
         }
 
         // GET: Evento/Create
+        [Authorize(Roles = "Administrador")]
         public IActionResult Create()
         {
             return View();
@@ -51,7 +56,8 @@ namespace ProjetoMongoDB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nome,Descricao,Data,Tipo,HorarioInicio,HorarioFim,Participantes")] Evento evento)
+        [Authorize(Roles = "Administrador")]
+        public async Task<IActionResult> Create([Bind("Id,Nome,Descricao,Data,Tipo,HorarioInicio,HorarioFim")] Evento evento)
         {
             if (ModelState.IsValid)
             {
@@ -63,6 +69,7 @@ namespace ProjetoMongoDB.Controllers
         }
 
         // GET: Evento/Edit/5
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Edit(Guid? id)
         {
             if (id == null)
@@ -70,7 +77,8 @@ namespace ProjetoMongoDB.Controllers
                 return NotFound();
             }
 
-            var evento = await _context.Evento.Find(m => m.Id);
+            var evento = await _context.Evento.Find(m => m.Id == id).FirstOrDefaultAsync();
+
             if (evento == null)
             {
                 return NotFound();
@@ -83,7 +91,8 @@ namespace ProjetoMongoDB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("Id,Nome,Descricao,Data,Tipo,HorarioInicio,HorarioFim,Participantes")] Evento evento)
+        [Authorize(Roles = "Administrador")]
+        public async Task<IActionResult> Edit(Guid id, [Bind("Id,Nome,Descricao,Data,Tipo,HorarioInicio,HorarioFim")] Evento evento)
         {
             if (id != evento.Id)
             {
@@ -94,8 +103,7 @@ namespace ProjetoMongoDB.Controllers
             {
                 try
                 {
-                    _context.Update(evento);
-                    await _context.SaveChangesAsync();
+                    await _context.Evento.ReplaceOneAsync(m => m.Id == evento.Id, evento);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -114,6 +122,7 @@ namespace ProjetoMongoDB.Controllers
         }
 
         // GET: Evento/Delete/5
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Delete(Guid? id)
         {
             if (id == null)
@@ -121,8 +130,8 @@ namespace ProjetoMongoDB.Controllers
                 return NotFound();
             }
 
-            var evento = await _context.Evento
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var evento = await _context.Evento.Find(m => m.Id == id).FirstOrDefaultAsync();
+
             if (evento == null)
             {
                 return NotFound();
@@ -132,23 +141,19 @@ namespace ProjetoMongoDB.Controllers
         }
 
         // POST: Evento/Delete/5
+        [Authorize(Roles = "Administrador")]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Guid id)
         {
-            var evento = await _context.Evento.FindAsync(id);
-            if (evento != null)
-            {
-                _context.Evento.Remove(evento);
-            }
+            await _context.Evento.DeleteOneAsync(u => u.Id == id);
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool EventoExists(Guid id)
+        private bool EventoExists(Guid id) // por ser privado, apenas a própria classe pode executar ele
         {
-            return _context.Evento.Any(e => e.Id == id);
+            return _context.Evento.Find(e => e.Id == id).Any();
         }
     }
 }
