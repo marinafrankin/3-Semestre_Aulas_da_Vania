@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\bin\Debug\net9.0\Estudo_P1.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\bin\Debug\net9.0\Estudo_P1.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\bin\Debug\net9.0\Estudo_P1.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\bin\Debug\net9.0\Estudo_P1.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\bin\Debug\net9.0\Estudo_P1.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\refint\Estudo_P1.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\Estudo_P1.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Estudo_P1\obj\Debug\net9.0\ref\Estudo_P1.dll

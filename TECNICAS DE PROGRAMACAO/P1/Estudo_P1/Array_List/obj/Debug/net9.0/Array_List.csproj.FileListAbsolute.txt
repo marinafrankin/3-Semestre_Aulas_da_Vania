@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\bin\Debug\net9.0\Array_List.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\bin\Debug\net9.0\Array_List.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\bin\Debug\net9.0\Array_List.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\bin\Debug\net9.0\Array_List.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\bin\Debug\net9.0\Array_List.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\refint\Array_List.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\Array_List.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Array_List\obj\Debug\net9.0\ref\Array_List.dll

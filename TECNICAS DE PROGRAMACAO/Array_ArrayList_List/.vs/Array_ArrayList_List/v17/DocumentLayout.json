@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\",
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C81BD5C-79D9-4898-B65C-DCF0A6781CD8}|List\\List.csproj|c:\\fatec\\desenvolvimento web iii\\2025_2\\array_arraylist_list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C81BD5C-79D9-4898-B65C-DCF0A6781CD8}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\List\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:List\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0099A257-98CD-4E9D-BCC0-DE39C0E6BFE3}|ArrayList\\ArrayList.csproj|c:\\fatec\\desenvolvimento web iii\\2025_2\\array_arraylist_list\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0099A257-98CD-4E9D-BCC0-DE39C0E6BFE3}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\ArrayList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ArrayList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08CBF64B-938B-4485-B424-5E194AF34541}|Array_ArrayList_List\\Array_ArrayList_List.csproj|c:\\fatec\\desenvolvimento web iii\\2025_2\\array_arraylist_list\\array_arraylist_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08CBF64B-938B-4485-B424-5E194AF34541}|Array_ArrayList_List\\Array_ArrayList_List.csproj|solutionrelative:array_arraylist_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\Array_ArrayList_List\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Array_ArrayList_List\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\List\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\List\\Program.cs",
               "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\List\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\List\\Program.cs",
               "RelativeToolTip": "List\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\ArrayList\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\ArrayList\\Program.cs",
               "RelativeDocumentMoniker": "ArrayList\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\ArrayList\\Program.cs",
               "RelativeToolTip": "ArrayList\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T11:51:40.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T11:51:40.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\Array_ArrayList_List\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\Array_ArrayList_List\\Program.cs",
               "RelativeDocumentMoniker": "Array_ArrayList_List\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Desenvolvimento Web III\\2025_2\\Array_ArrayList_List\\Array_ArrayList_List\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\Array_ArrayList_List\\Array_ArrayList_List\\Program.cs",
               "RelativeToolTip": "Array_ArrayList_List\\Program.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAqwEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T10:59:45.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T10:59:45.053Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\bin\Debug\net9.0\HTTP.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\bin\Debug\net9.0\HTTP.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\bin\Debug\net9.0\HTTP.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\bin\Debug\net9.0\HTTP.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\bin\Debug\net9.0\HTTP.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\refint\HTTP.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\HTTP.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\FEITOS POR MIM\13-10-2025\Excecao\HTTP\obj\Debug\net9.0\ref\HTTP.dll
