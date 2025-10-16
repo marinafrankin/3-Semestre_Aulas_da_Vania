@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9C4ADBA-DCF4-46D6-BC06-3F76F35C1522}|Exercicio 04\\Exercicio 04.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\lista de exercicios\\p1\\lista de exercicios\\exercicio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C4ADBA-DCF4-46D6-BC06-3F76F35C1522}|Exercicio 04\\Exercicio 04.csproj|solutionrelative:exercicio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EF89D6D-971A-478A-9C9D-6AB5A8F2A7A0}|Exercicio 02\\Exercicio 02.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\lista de exercicios\\p1\\lista de exercicios\\exercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EF89D6D-971A-478A-9C9D-6AB5A8F2A7A0}|Exercicio 02\\Exercicio 02.csproj|solutionrelative:exercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8C013B-530D-4BF9-A38B-30785543160D}|Exercicio 03\\Exercicio 03.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\lista de exercicios\\p1\\lista de exercicios\\exercicio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8C013B-530D-4BF9-A38B-30785543160D}|Exercicio 03\\Exercicio 03.csproj|solutionrelative:exercicio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B996C5C7-1FD3-4AE4-AE81-06D388009600}|Lista de exercicios\\Lista de exercicios.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\lista de exercicios\\p1\\lista de exercicios\\lista de exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,18 +32,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Exercicio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Exercicio 04\\Program.cs",
+              "RelativeToolTip": "Exercicio 04\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:02:01.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Exercicio 03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 03\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Exercicio 03\\Program.cs",
+              "RelativeToolTip": "Exercicio 03\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwDYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:11:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Exercicio 02\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio 02\\Program.cs",
               "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Exercicio 02\\Program.cs",
               "RelativeToolTip": "Exercicio 02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T20:01:34.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Lista de Exercicios\\P1\\Lista de exercicios\\Lista de exercicios\\Program.cs",
               "RelativeDocumentMoniker": "Lista de exercicios\\Program.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "Lista de exercicios\\Program.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAQwDEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T19:01:45.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T19:01:45.304Z"
             }
           ]
         }

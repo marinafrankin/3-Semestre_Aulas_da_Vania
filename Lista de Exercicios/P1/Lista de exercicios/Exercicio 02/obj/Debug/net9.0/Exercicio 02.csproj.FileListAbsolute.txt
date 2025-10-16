@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\bin\Debug\net9.0\Exercicio 02.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\bin\Debug\net9.0\Exercicio 02.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\bin\Debug\net9.0\Exercicio 02.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\bin\Debug\net9.0\Exercicio 02.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\bin\Debug\net9.0\Exercicio 02.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\refint\Exercicio 02.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\Exercicio 02.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Lista de exercicios\Exercicio 02\obj\Debug\net9.0\ref\Exercicio 02.dll
