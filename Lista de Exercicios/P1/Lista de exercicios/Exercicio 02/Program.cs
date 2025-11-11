@@ -60,7 +60,7 @@ class Produtos
         // Regras de negócio:
         if (nome.Length == 0) 
         {
-            throw new Exception("O nome é obrigatória");
+            throw new Exception("O nome é obrigatório");
         }
         if (nome.All(char.IsDigit))
         {

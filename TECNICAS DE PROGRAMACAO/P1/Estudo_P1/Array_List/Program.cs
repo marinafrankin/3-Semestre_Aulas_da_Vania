@@ -4,10 +4,11 @@
 
 Ainda usando o mesmo código base:
 
-.Crie um novo vetor de strings chamado animais contendo três nomes de animais.
-.Use AddRange() para adicionar esses elementos ao final de lista1.
-.Depois, use InsertRange() para inserir novamente o mesmo vetor no início da lista.
-.Exiba o resultado com ExibirArrayList(lista1).
+    .Crie um novo vetor de strings chamado animais contendo três nomes de animais.
+    .Use AddRange() para adicionar esses elementos ao final de lista1.
+    .Depois, use InsertRange() para inserir novamente o mesmo vetor no início da lista.
+    .Exiba o resultado com ExibirArrayList(lista1).
+
  */
 
 using System.Collections;

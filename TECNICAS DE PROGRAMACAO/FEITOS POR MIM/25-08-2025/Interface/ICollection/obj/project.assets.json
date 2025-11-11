@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Interface\\ICollection\\ICollection.csproj",
+      "projectUniqueName": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\25-08-2025\\Interface\\ICollection\\ICollection.csproj",
       "projectName": "ICollection",
-      "projectPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Interface\\ICollection\\ICollection.csproj",
+      "projectPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\25-08-2025\\Interface\\ICollection\\ICollection.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\Interface\\ICollection\\obj\\",
+      "outputPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\25-08-2025\\Interface\\ICollection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

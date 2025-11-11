@@ -9,12 +9,12 @@
 
 Adapte o código para que, após limpar o ArrayList (lista1.Clear()), o programa:
 
-.Peça ao usuário que digite 5 nomes e os adicione à lista.
-.Mostre todos os nomes digitados.
-.Permita ao usuário remover um nome específico, informando o nome.
-.Exiba novamente a lista atualizada.
+    .Peça ao usuário que digite 5 nomes e os adicione à lista.
+    .Mostre todos os nomes digitados.
+    .Permita ao usuário remover um nome específico, informando o nome.
+    .Exiba novamente a lista atualizada.
 
- */
+*/
 
 using System.Collections;
 

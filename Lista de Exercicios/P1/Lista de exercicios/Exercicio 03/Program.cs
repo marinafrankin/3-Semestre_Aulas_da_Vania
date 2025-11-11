@@ -48,7 +48,7 @@ public class Usuarios
     {
         if (nome.Length == 0)
         {
-            throw new NomeInvalidoException("O nome é obrigatória");
+            throw new NomeInvalidoException("O nome é obrigatório");
         }
         if (nome.All(char.IsDigit))
         {

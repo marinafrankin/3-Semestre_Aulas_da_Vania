@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\bin\Debug\net9.0\Exemplo 01.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\bin\Debug\net9.0\Exemplo 01.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\bin\Debug\net9.0\Exemplo 01.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\bin\Debug\net9.0\Exemplo 01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\bin\Debug\net9.0\Exemplo 01.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\refint\Exemplo 01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\Exemplo 01.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Lista de Exercicios\P1\Linq\Exemplo 01\obj\Debug\net9.0\ref\Exemplo 01.dll

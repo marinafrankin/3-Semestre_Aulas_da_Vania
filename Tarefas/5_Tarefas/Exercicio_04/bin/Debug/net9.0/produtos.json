@@ -1,0 +1,20 @@
+[
+  {
+    "Nome": "Notebook",
+    "Categoria": "Eletr\u00F4nicos",
+    "Preco": 2500,
+    "DataCadastro": "2025-11-09T13:39:32.7383141-03:00"
+  },
+  {
+    "Nome": "Cadeira Gamer",
+    "Categoria": "M\u00F3veis",
+    "Preco": 2500,
+    "DataCadastro": "2025-11-09T13:39:33.5587114-03:00"
+  },
+  {
+    "Nome": "Soldado de borracha",
+    "Categoria": "Brinquedo",
+    "Preco": 60,
+    "DataCadastro": "2025-11-09T13:39:33.5608128-03:00"
+  }
+]

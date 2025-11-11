@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\bin\Debug\net9.0\Orientacao_Ao_Objeto.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\bin\Debug\net9.0\Orientacao_Ao_Objeto.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\bin\Debug\net9.0\Orientacao_Ao_Objeto.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\bin\Debug\net9.0\Orientacao_Ao_Objeto.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\bin\Debug\net9.0\Orientacao_Ao_Objeto.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\refint\Orientacao_Ao_Objeto.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\Orientacao_Ao_Objeto.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Orientacao_Ao_Objeto\obj\Debug\net9.0\ref\Orientacao_Ao_Objeto.dll

@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\bin\Debug\net9.0\Interface.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\bin\Debug\net9.0\Interface.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\bin\Debug\net9.0\Interface.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\TECNICAS DE PROGRAMACAO\P1\Estudo_P1\Interface\obj\Debug\net9.0\ref\Interface.dll

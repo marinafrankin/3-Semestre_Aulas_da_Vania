@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF5A4B33-4032-4F80-A5B3-6C4EB64AD1A9}|Array_List\\Array_List.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\array_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5A4B33-4032-4F80-A5B3-6C4EB64AD1A9}|Array_List\\Array_List.csproj|solutionrelative:array_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C619F753-263A-4AEC-8365-E4D8DC6BFD43}|Orientacao_Ao_Objeto\\Orientacao_Ao_Objeto.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\orientacao_ao_objeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C619F753-263A-4AEC-8365-E4D8DC6BFD43}|Orientacao_Ao_Objeto\\Orientacao_Ao_Objeto.csproj|solutionrelative:orientacao_ao_objeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86961B9B-B43B-4171-8517-F5F74C252C33}|ICollection\\ICollection.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86961B9B-B43B-4171-8517-F5F74C252C33}|ICollection\\ICollection.csproj|solutionrelative:icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC4ACEF-3715-4EE6-8EB2-FDDA3A987584}|Interface\\Interface.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC4ACEF-3715-4EE6-8EB2-FDDA3A987584}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83283FEE-054C-430D-89A3-52E04CD4886A}|Estudo_P1\\Estudo_P1.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\estudo_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83283FEE-054C-430D-89A3-52E04CD4886A}|Estudo_P1\\Estudo_P1.csproj|solutionrelative:estudo_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ED2A84-75AD-4819-A2FB-933D1273690B}|Conversao\\Conversao.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\conversao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ED2A84-75AD-4819-A2FB-933D1273690B}|Conversao\\Conversao.csproj|solutionrelative:conversao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A4B33-4032-4F80-A5B3-6C4EB64AD1A9}|Array_List\\Array_List.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\p1\\estudo_p1\\array_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A4B33-4032-4F80-A5B3-6C4EB64AD1A9}|Array_List\\Array_List.csproj|solutionrelative:array_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Array_List\\Program.cs",
-              "RelativeDocumentMoniker": "Array_List\\Program.cs",
-              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Array_List\\Program.cs",
-              "RelativeToolTip": "Array_List\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Orientacao_Ao_Objeto\\Program.cs",
+              "RelativeDocumentMoniker": "Orientacao_Ao_Objeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Orientacao_Ao_Objeto\\Program.cs",
+              "RelativeToolTip": "Orientacao_Ao_Objeto\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T15:13:10.297Z",
+              "WhenOpened": "2025-10-25T19:50:16.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\ICollection\\Program.cs",
+              "RelativeDocumentMoniker": "ICollection\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\ICollection\\Program.cs",
+              "RelativeToolTip": "ICollection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:47:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:22:10.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Conversao\\Program.cs",
+              "RelativeDocumentMoniker": "Conversao\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Conversao\\Program.cs",
+              "RelativeToolTip": "Conversao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:17:16.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Estudo_P1\\Program.cs",
               "RelativeDocumentMoniker": "Estudo_P1\\Program.cs",
               "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Estudo_P1\\Program.cs",
               "RelativeToolTip": "Estudo_P1\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T15:08:08.071Z",
+              "WhenOpened": "2025-10-25T19:08:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Array_List\\Program.cs",
+              "RelativeDocumentMoniker": "Array_List\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\P1\\Estudo_P1\\Array_List\\Program.cs",
+              "RelativeToolTip": "Array_List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:08:01.287Z",
               "EditorCaption": ""
             }
           ]

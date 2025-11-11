@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77977D58-5DB4-489F-95D5-9816778A5D27}|Serializacao e Desserializacao de arquivo\\Serializacao e Desserializacao de arquivo.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\03-11-2025\\arquivos\\serializacao e desserializacao de arquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77977D58-5DB4-489F-95D5-9816778A5D27}|Serializacao e Desserializacao de arquivo\\Serializacao e Desserializacao de arquivo.csproj|solutionrelative:serializacao e desserializacao de arquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A88E71-6E37-45A4-A4A9-FF0FCE8E5E59}|Serializacao e Desserializacao\\Serializacao e Desserializacao.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\03-11-2025\\arquivos\\serializacao e desserializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A88E71-6E37-45A4-A4A9-FF0FCE8E5E59}|Serializacao e Desserializacao\\Serializacao e Desserializacao.csproj|solutionrelative:serializacao e desserializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3572D40E-1339-4572-BDE6-5ACFC43BBAA1}|Arquivos\\Arquivos.csproj|c:\\users\\marina\\desktop\\3 semestre aulas_vania\\tecnicas de programacao\\feitos por mim\\03-11-2025\\arquivos\\arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3572D40E-1339-4572-BDE6-5ACFC43BBAA1}|Arquivos\\Arquivos.csproj|solutionrelative:arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\Serializacao e Desserializacao de arquivo\\Program.cs",
+              "RelativeDocumentMoniker": "Serializacao e Desserializacao de arquivo\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\Serializacao e Desserializacao de arquivo\\Program.cs",
+              "RelativeToolTip": "Serializacao e Desserializacao de arquivo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:36:47.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\Serializacao e Desserializacao\\Program.cs",
+              "RelativeDocumentMoniker": "Serializacao e Desserializacao\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\Serializacao e Desserializacao\\Program.cs",
+              "RelativeToolTip": "Serializacao e Desserializacao\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:46:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\Arquivos\\Program.cs",
+              "RelativeDocumentMoniker": "Arquivos\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\3 Semestre Aulas_Vania\\TECNICAS DE PROGRAMACAO\\FEITOS POR MIM\\03-11-2025\\Arquivos\\Arquivos\\Program.cs",
+              "RelativeToolTip": "Arquivos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:25:48.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Serializacao e Desserializacao de arquivo/1.0.0": {
+        "runtime": {
+          "Serializacao e Desserializacao de arquivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serializacao e Desserializacao de arquivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

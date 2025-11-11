@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\bin\Debug\net9.0\Exercicio_04.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\bin\Debug\net9.0\Exercicio_04.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\bin\Debug\net9.0\Exercicio_04.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\bin\Debug\net9.0\Exercicio_04.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\bin\Debug\net9.0\Exercicio_04.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\refint\Exercicio_04.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\Exercicio_04.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_04\obj\Debug\net9.0\ref\Exercicio_04.dll

@@ -32,7 +32,7 @@ finally
     Console.WriteLine("Fim de compra");
 }
 
-
+// Função ->
 void CadastrarProduto(string nome, double preco)
 {
     Produto produto = new Produto(nome, preco);
@@ -50,7 +50,7 @@ public class Produto
     {
         if (nome.Length == 0)
         {
-            throw new NomeInvalidoError("O nome é obrigatória");
+            throw new NomeInvalidoError("O nome é obrigatório");
         }
 
         if (preco <= 0)

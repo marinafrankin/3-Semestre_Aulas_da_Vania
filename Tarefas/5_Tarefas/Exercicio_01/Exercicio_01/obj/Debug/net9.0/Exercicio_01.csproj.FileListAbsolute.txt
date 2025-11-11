@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\bin\Debug\net9.0\Exercicio_01.exe
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\bin\Debug\net9.0\Exercicio_01.deps.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\bin\Debug\net9.0\Exercicio_01.runtimeconfig.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\bin\Debug\net9.0\Exercicio_01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\bin\Debug\net9.0\Exercicio_01.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.AssemblyInfo.cs
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.sourcelink.json
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\refint\Exercicio_01.dll
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.pdb
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\Exercicio_01.genruntimeconfig.cache
+C:\Users\Marina\Desktop\3 Semestre Aulas_Vania\Tarefas\5_Tarefas\Exercicio_01\Exercicio_01\obj\Debug\net9.0\ref\Exercicio_01.dll
